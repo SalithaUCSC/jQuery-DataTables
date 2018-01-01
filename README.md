@@ -6,7 +6,7 @@ jQuery DataTables is a very valuable plugin that can be used when displaying rec
 
 1. Download or clone the project and rename it as **jQuery-DataTables** or any other.
 2. Run XAMPP or WAMP and go to "http://localhost/phpmyadmin".
-3. Create a new database in PhpMyadmin called ajax_crud.
+3. Create a new database in PhpMyadmin called **ajax_search**.
 4. Import the SQL file included in project folder.
 5. Place the project folder in your localhost. (htdocs or www folder)
 6. Open the browser and enter the URL for the project. URL for the project as - "http://localhost/jQuery-DataTables".
